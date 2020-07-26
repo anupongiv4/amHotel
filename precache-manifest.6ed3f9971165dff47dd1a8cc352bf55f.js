@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a6d984597abec65c17a94662381719b",
+    "revision": "34451c6a029f8cfd14d1e1b352c5531e",
     "url": "/amHotel/index.html"
   },
   {
-    "revision": "129e78a4cef17dffb9d5",
+    "revision": "438b6dcc1b2dcb7e81ef",
     "url": "/amHotel/static/css/main.2add3149.chunk.css"
   },
   {
-    "revision": "780fa362c5022c128422",
-    "url": "/amHotel/static/js/2.70df6ee1.chunk.js"
+    "revision": "08251ab8320dd9b43132",
+    "url": "/amHotel/static/js/2.0b068f1a.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/amHotel/static/js/2.70df6ee1.chunk.js.LICENSE.txt"
+    "url": "/amHotel/static/js/2.0b068f1a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "129e78a4cef17dffb9d5",
-    "url": "/amHotel/static/js/main.b914e4fa.chunk.js"
+    "revision": "438b6dcc1b2dcb7e81ef",
+    "url": "/amHotel/static/js/main.cf4549bb.chunk.js"
   },
   {
     "revision": "8fdafc8ac2fb3d467ea6",

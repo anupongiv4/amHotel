@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/amHotel/static/css/main.2add3149.chunk.css",
-    "main.js": "/amHotel/static/js/main.b914e4fa.chunk.js",
-    "main.js.map": "/amHotel/static/js/main.b914e4fa.chunk.js.map",
+    "main.js": "/amHotel/static/js/main.cf4549bb.chunk.js",
+    "main.js.map": "/amHotel/static/js/main.cf4549bb.chunk.js.map",
     "runtime-main.js": "/amHotel/static/js/runtime-main.c836a650.js",
     "runtime-main.js.map": "/amHotel/static/js/runtime-main.c836a650.js.map",
-    "static/js/2.70df6ee1.chunk.js": "/amHotel/static/js/2.70df6ee1.chunk.js",
-    "static/js/2.70df6ee1.chunk.js.map": "/amHotel/static/js/2.70df6ee1.chunk.js.map",
+    "static/js/2.0b068f1a.chunk.js": "/amHotel/static/js/2.0b068f1a.chunk.js",
+    "static/js/2.0b068f1a.chunk.js.map": "/amHotel/static/js/2.0b068f1a.chunk.js.map",
     "index.html": "/amHotel/index.html",
-    "precache-manifest.7bb4ff69b0b814d72a590a9d3449c93a.js": "/amHotel/precache-manifest.7bb4ff69b0b814d72a590a9d3449c93a.js",
+    "precache-manifest.6ed3f9971165dff47dd1a8cc352bf55f.js": "/amHotel/precache-manifest.6ed3f9971165dff47dd1a8cc352bf55f.js",
     "service-worker.js": "/amHotel/service-worker.js",
     "static/css/main.2add3149.chunk.css.map": "/amHotel/static/css/main.2add3149.chunk.css.map",
-    "static/js/2.70df6ee1.chunk.js.LICENSE.txt": "/amHotel/static/js/2.70df6ee1.chunk.js.LICENSE.txt",
+    "static/js/2.0b068f1a.chunk.js.LICENSE.txt": "/amHotel/static/js/2.0b068f1a.chunk.js.LICENSE.txt",
     "static/media/d-double-bed-1.jpg": "/amHotel/static/media/d-double-bed-1.d1627228.jpg",
     "static/media/d-double-bed-2.jpg": "/amHotel/static/media/d-double-bed-2.328cca1e.jpg",
     "static/media/d-double-bed-3.jpg": "/amHotel/static/media/d-double-bed-3.d19b3d24.jpg",
@@ -38,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c836a650.js",
-    "static/js/2.70df6ee1.chunk.js",
+    "static/js/2.0b068f1a.chunk.js",
     "static/css/main.2add3149.chunk.css",
-    "static/js/main.b914e4fa.chunk.js"
+    "static/js/main.cf4549bb.chunk.js"
   ]
 }
